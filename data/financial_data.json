@@ -1,0 +1,37 @@
+{
+  "company": {
+    "name": "소노스퀘어",
+    "legacy_name": "대명소노시즌",
+    "stock_code": "007720",
+    "corp_code": null
+  },
+  "generated_at": null,
+  "coverage": {
+    "structured_from": 2015,
+    "requested_from": 2010,
+    "legacy_discovery": []
+  },
+  "records": [],
+  "peers": [
+    {
+      "name": "아이마켓코리아",
+      "ticker": "122900",
+      "note": "MRO/기업소모성자재 구매"
+    },
+    {
+      "name": "현대리바트",
+      "ticker": "079430",
+      "note": "리빙·가구 유통"
+    },
+    {
+      "name": "코웨이",
+      "ticker": "021240",
+      "note": "렌탈·생활가전"
+    },
+    {
+      "name": "SK네트웍스",
+      "ticker": "001740",
+      "note": "렌탈·유통/서비스"
+    }
+  ]
+}
